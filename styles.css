@@ -161,7 +161,7 @@ footer h1 {
   word-break: break-all;
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
   body {
     overflow: hidden;
   }
