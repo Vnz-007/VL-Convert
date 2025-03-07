@@ -165,5 +165,6 @@ footer h1 {
   form {
     margin: auto;
     padding: 1.5rem 4rem;
+    overflow-x: hidden;
   }
 }
