@@ -164,6 +164,7 @@ footer h1 {
 @media screen and (max-width: 768px) {
   form {
     margin: auto;
+    padding: 1.5rem 2rem;
     width: 100%;
   }
 }
