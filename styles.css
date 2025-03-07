@@ -161,9 +161,9 @@ footer h1 {
   word-break: break-all;
 }
 
-@media (max-width: 620px) {
-  form,
-  input {
+@media (max-width: 480px) {
+  form {
     margin: auto;
+    padding: 1rem;
   }
 }
